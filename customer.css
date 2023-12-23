@@ -1,0 +1,8 @@
+.text-blue-500 {
+	--tw-text-opacity: 1;
+	color: #3769bf;
+}
+.hover\:text-blue-700:hover {
+ --tw-text-opacity:1;
+ color:#0f58d6;
+}
